@@ -1,0 +1,6 @@
+git+https://github.com/cartodb/carto-python.git@master#egg=carto
+git+https://github.com/cartodb/cartoframes.git@develop#egg=cartoframes
+jupyter
+matplotlib
+palettable
+unidecode
